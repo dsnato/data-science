@@ -1,4 +1,4 @@
-#Estudos e Projetos de Ciência de Dados
+Estudos e Projetos de Ciência de Dados
 
 Este repositório reúne meus estudos e projetos pessoais em Ciência de Dados, com experimentos em machine learning e deep learning.
 
